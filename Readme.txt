@@ -1,4 +1,5 @@
-Thanks for downloading this template!
+Projeto de portfolio realizdo com base no template iPortfolio, desenvolvido pela BoostrapMade.com,
+com os seguintes dados:
 
 Template Name: iPortfolio
 Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
